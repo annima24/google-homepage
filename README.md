@@ -1,0 +1,1 @@
+Making a non-working replica of the Google homepage, to practice HTML and CSS. Please, enjoy.
